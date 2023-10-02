@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.App{
+  width: 100vw;
+  height: 100vh;
+  
+}
+html,
+body,
+#root {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+
+.ant-select .ant-select-selector {
+  border-radius:00px;
+  
+}
+
